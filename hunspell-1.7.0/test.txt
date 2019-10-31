@@ -1,0 +1,5 @@
+No annoying suggestion times any more, especially in languages with
+compound word handling and complex morphology. By adding balanced
+multi-level time limits, now the guaranteed suggestion time is there
+within half a second, not seconds (nor dozen of seconds or more
+in extreme cases) for longer misspellings, too.
