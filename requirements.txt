@@ -1,6 +1,7 @@
-spacy==1.9.0  # required version for errant
-hunspell
+spacy==2.0 #run also python3 -m spacy download de
+hunspell #probably won't work
 nltk
 sentencepiece
 tqdm
 gdown
+treetaggerwrapper
